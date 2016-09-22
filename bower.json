@@ -1,0 +1,24 @@
+{
+  "name": "adapt-courseScore",
+  "version": "2.0.2",
+  "framework": "^2.0.0",
+  "homepage": "https://github.com/sarveshwar-gavhane/adapt-courseScore.git",
+  "issues": "https://github.com/sarveshwar-gavhane/adapt-courseScore/issues",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "authors": [
+    "Sarveshwar Gavhane <sarveshwar.gavhane@exultcorp.com>"
+  ],
+  "displayName" : "courseScore",
+  "extension" : "courseScore",
+  "description": "To calculate the correct attempted question's within the course",
+  "main": "/js/adapt-courseScore.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-extension"
+  ],
+  "license": "GPLv3",
+  "targetAttribute": "_extension"
+}

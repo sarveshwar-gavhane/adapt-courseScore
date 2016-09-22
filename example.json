@@ -1,0 +1,10 @@
+//to go in course.json
+"_courseScore": {
+    "_isEnabled": true,
+    "_score":0
+ }
+//To go in article.json which you want to calculate the score
+"_courseScore": {
+    "_isEnabled": true,
+    "_score":0
+ }
