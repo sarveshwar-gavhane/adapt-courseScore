@@ -2,7 +2,7 @@
 
 **courseScore** is an *extension* .
 
-The **courseScore** is an extension To calculate the correct attempted question's within the course.
+The **courseScore** is an extension To calculate the correct attempted question's within the Entire course, it can be used to calculate score of multiple assessment's and every question component, you need to Enabled it to that article. score can be calculated as per the _questionWeight provided to the each component, 
 
 ##Installation
 
@@ -20,7 +20,7 @@ The attributes listed below are properly formatted as JSON in [*example.json*](h
 
 ### Attributes
 
->**_isEnabled** (boolean):  Turns on and off the **courseScore** extension. Can be set in *course.json*, *articles.json* ,
+>**_isEnabled** (boolean):  Turns on and off the **courseScore** extension. Can be set in *course.json*, *articles.json* 
 
 >**_score** (number):  This number specifies the current score of the course.
 default value 0.
