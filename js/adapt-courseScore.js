@@ -45,7 +45,7 @@ define([
 
     });
 
-    Adapt.once("menuView:preRender", function() {
+    Adapt.once("pageView:preRender", function() {
         var courseData = Adapt.course.get('_courseScore');
 
         if (courseData && courseData._isEnabled) {
