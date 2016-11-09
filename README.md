@@ -25,6 +25,8 @@ The attributes listed below are properly formatted as JSON in [*example.json*](h
 >**_score** (number):  This number specifies the current score of the course.
 default value 0.
 
+>**_isPercentageBased** (boolean): default value is false, Turns on to see the course score in percentage based.
+
 ### Limitations
 
 To be completed
